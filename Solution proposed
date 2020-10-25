@@ -1,0 +1,14 @@
+Coding tools required: HTML, JavaScript, CSS -- For website 
+Kortlin, C++ -- For mobile app
+OracleSQL -- For database management
+
+Things to create:
+1) A website for available and allocated ventilator information which is dynamic with time.
+2) A mobile app which is user specific and hospital specific.
+
+Flow:
+--Hospitals have to upload data about how much ventilaters are in use and how many are free.
+--We have to hire a B2B transport facility to transport the ventilater inter-hospitals where in need.
+--Patients can see in which hospitals most no. of ventilators are vacant.
+--In case of emergency ventilators can be transported between nearest hospitals.
+--In this way the load on specific hospitals can be incresed.
